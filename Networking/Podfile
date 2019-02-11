@@ -7,7 +7,7 @@ use_frameworks!
 
 # Pods for Networking
 
-pod 'MBProgressHUD', '~> 1.1.0'
+pod 'SVProgressHUD'
 pod 'Alamofire', '~> 5.0.0-beta.2'
 
 
